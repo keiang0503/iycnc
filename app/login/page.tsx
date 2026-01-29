@@ -46,7 +46,7 @@ export default function LoginPage() {
               priority
             />
             <h1 className="text-xl font-semibold text-gray-800">
-              NVH코리아 정산 관리자 시스템
+              NVH코리아 자산통합관리 시스템
             </h1>
           </div>
 
