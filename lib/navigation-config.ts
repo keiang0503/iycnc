@@ -86,6 +86,7 @@ export const sidebarConfig: SidebarConfig = {
               id: "asset-usage-status",
               label: "자산사용현황조회",
               href: "/asset-search/usage",
+              hasContent: true,
             },
             {
               id: "asset-inspection-status",
